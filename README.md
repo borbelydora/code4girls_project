@@ -7,4 +7,6 @@ We added a module of plots usin python libraries to take a better advantage of t
 
 This is a guidance for the start of our programming path
 
-When we will see from the future to this point we will be able to see how much we had walked to the front 
+When we will see from the future to this point we will be able to see how much we had walked, change, and improved
+
+We are girls trying to break the barriers of the computational world to open a new path full of oportunities 
